@@ -1,21 +1,24 @@
 Choi Jae Young
 =============
-👋&nbsp; Hi there! I've been serving in the Army.
+
+👋 Hi there!    
+I've been serving in the Army until October, 2022.
 ---------------------------------------
+
 ### 🛠 Stack   
 Techs that I've used at least once.
-#### Language
+#### 🔠Language & FrameWork
 <p>
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
 </p>
-
-#### Framework
 <p>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
 </p>
 
 ---------------------------------------
+
+### Contact
 <p>
   <img src="https://img.shields.io/badge/cjy11230@kakao.com-3DDC84?style=flat-square&logo=KakaoTalk&logoColor=#FFCD00"/>
   <img src="https://img.shields.io/badge/jyblessingyou@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
