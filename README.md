@@ -28,11 +28,16 @@ Choi Jae Young
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=black">
 </p>
 
+#### Algorithm 🏅
+<p>
+  <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=cjy11230&link=https://solved.ac/cjy11230">
+</p>
+
 ---
 ### 📞Contact
 <p>
-  <img src="https://img.shields.io/badge/cjy11230@kakao.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jyblessingyou@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  <img src="http://img.shields.io/badge/jy._.1107-black?style=flat&logo=Instagram&link=https://instagram.com/jy._.1107"/>   
+  <img src="https://img.shields.io/badge/cjy11230@kakao.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black">
+  <img src="https://img.shields.io/badge/jyblessingyou@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  <img src="http://img.shields.io/badge/jy.__.1107-black?style=flat&logo=Instagram&link=https://instagram.com/jy._.1107">   
 </p>
  
