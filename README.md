@@ -5,24 +5,34 @@ Choi Jae Young
 ###### Techs that I've used at least once.
 #### Language
 <p>
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=#00599C"> 
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=#A8B9CC">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
 </p>
 
 #### Framework
 <p>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=flat-square&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+</p>
+
+#### IDE
+<p>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=black">
 </p>
 
 ---
 ### 📞Contact
 <p>
-  <img src="https://img.shields.io/badge/cjy11230@kakao.com-3DDC84?style=flat-square&logo=KakaoTalk&logoColor=#FFCD00"/>
-  <img src="https://img.shields.io/badge/jyblessingyou@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cjy11230@kakao.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jyblessingyou@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <img src="http://img.shields.io/badge/jy._.1107-black?style=flat&logo=Instagram&link=https://instagram.com/jy._.1107"/>   
 </p>
  
