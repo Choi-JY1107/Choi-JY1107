@@ -19,6 +19,8 @@ Choi Jae Young
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
 </p>
 
 * #### IDE
