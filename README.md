@@ -10,9 +10,7 @@ Choi Jae Young
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=fla&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=fla&logo=JavaScript&logoColor=white">
 </p>
 
 * #### Framework
@@ -23,6 +21,17 @@ Choi Jae Young
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
 </p>
 
+* #### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
+</p>
+
+* #### Program
+<p>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white">
+</p>
+
 * #### IDE
 <p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
@@ -30,8 +39,6 @@ Choi Jae Young
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=Android Studio&logoColor=black">
 </p>
-
-
 
 ---
 ### 📋 Project 
