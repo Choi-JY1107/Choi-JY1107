@@ -46,9 +46,7 @@ Choi Jae Young
 
 ---
 ### 🏅 Algorithm 
-<p>
-  <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=cjy11230&link=https://solved.ac/cjy11230">
-</p>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjy11230)](https://solved.ac/cjy11230/)
 
 ---
 ### 📞Contact
