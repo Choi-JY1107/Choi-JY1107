@@ -43,6 +43,9 @@ Choi Jae Young
 ---
 ### 📋 Project 
   ##### [Service Deployment] AI ship Identification System Back-End (2021.07 ~ )
+  * ###### 계정 관리, 통계 기능, AI 검색 기능 등과 같은 간단한 API 개발
+  * ###### 데이터 베이스 관리 및 서버 유지 보수
+  * ###### 
 
 ---
 ### 🏅 Algorithm 
