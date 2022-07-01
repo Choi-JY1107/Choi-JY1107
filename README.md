@@ -3,7 +3,7 @@ Choi Jae Young
 #### Backend Engineer
 ---
 ### 🛠 Stack 🖥
-###### Techs that I've used at least once.
+###### Techs that I've used skillfully
 * #### Language
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow">
@@ -17,6 +17,7 @@ Choi Jae Young
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-007396?style=fla&logo=JSP&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
 </p>
@@ -25,17 +26,19 @@ Choi Jae Young
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
+  <img src="https://img.shields.io/badge/Cubrid-FF6F00?style=flat&logo=Cubrid&logoColor=white">
 </p>
 
-* #### Program
+* #### Server Program
 <p>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black">
 </p>
 
 * #### IDE
 <p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=Android Studio&logoColor=black">
 </p>
