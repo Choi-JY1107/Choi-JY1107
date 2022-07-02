@@ -57,7 +57,7 @@ Choi Jae Young
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjy11230)](https://solved.ac/cjy11230/)
 
 ---
-### 📞Contact
+### 📞 Contact
 <p>
   <img src="https://img.shields.io/badge/cjy11230@kakao.com-FFCD00?style=flat&logo=KakaoTalk&logoColor=black">
   <img src="https://img.shields.io/badge/jyblessingyou@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
