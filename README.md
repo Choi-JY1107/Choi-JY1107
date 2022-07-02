@@ -1,6 +1,6 @@
 Choi Jae Young
 ---
-#### Backend Engineer
+#### Backend Engineer 
 ---
 ### 🛠 Stack 🖥
 ###### Techs that I've used skillfully
