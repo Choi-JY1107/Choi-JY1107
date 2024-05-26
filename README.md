@@ -17,6 +17,8 @@ Choi Jae Young
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
+  
 </p>
 
 * #### Database
