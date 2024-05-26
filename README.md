@@ -16,11 +16,13 @@ Choi Jae Young
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
 </p>
 
 * #### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
   <img src="https://img.shields.io/badge/Cubrid-FF6F00?style=flat&logo=Cubrid&logoColor=white">
 </p>
@@ -46,6 +48,13 @@ Choi Jae Young
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
 </p>
 
+## 🎈 Career
+### **싱크테크노 풀스택 개발 인턴 (2024.03 ~ )**
+* ###### kurento 활용 pub/sub 구조 내 Object Detection 적용
+* ###### 통신 품질 데이터로 clustering 기반의 비즈니스 모델 제시
+* ###### Jest 기반의 테스트 코드를 활용한 서비스 리팩토링 진행
+---
+
 ## 📋 Project
 ### **Ship Identification System(Django)**
 ##### 선박 데이터 관련 CRUD 서비스 및 AI 검색 기능 서비스 (2021.07 ~ 2022.01)
@@ -60,10 +69,14 @@ Choi Jae Young
 * ###### API 개발
 * ###### AWS EC2를 활용한 서버 배포
 * ###### TDD 방법론을 활용한 코드의 신뢰성 향상
-* ###### 실제 오픈소스를 읽으며 가독성 좋은 코드와 협업에 대한 고민 
 * ###### AI 정확성 향상을 위해, 모델 선정에 대한 고민
 
 
+### **Pocket Plant**
+##### (2024 중앙대 UNION 해커톤 1등 수상작) 식물 사진 도감 및 라벨 에측 기능 서비스 (2024.05.18 ~ 2024.05.19)
+* ###### 식물 사진 관련 API 명세 작성 및 구현
+* ###### 식물 사진 라벨 예측 기능 구현
+* ###### 프로젝트 시스템 설계 및 기획 담당
 
 ---
 ### 🏅 Algorithm 
