@@ -1,6 +1,9 @@
 Choi Jae Young
 ---
-#### Backend Engineer 
+#### Backend Engineer
+##### [블로그 주소](https://godsaeng-salgi.tistory.com/)
+##### Spring boot와 Django를 좋아하며, 최근에는 Nest.js를 공부하고 있습니다.
+
 ---
 ## 🛠 Stack 🖥
 ###### Techs that I've used skillfully
