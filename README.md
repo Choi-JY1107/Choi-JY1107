@@ -2,9 +2,7 @@ Choi Jae Young
 ---
 #### Backend Engineer
 ##### [블로그 주소](https://godsaeng-salgi.tistory.com/)
-##### Spring boot와 Django를 좋아하며, 최근에는 Nest.js를 공부하고 있습니다.
 
----
 ## 🛠 Stack 🖥
 ###### Techs that I've used skillfully
 * #### Language
@@ -56,10 +54,12 @@ Choi Jae Young
 ### **싱크테크노 풀스택 개발 인턴 (2024.03 ~ )**
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat&logo=Openlayers&logoColor=white"> <img src="https://img.shields.io/badge/webRTC-333333?style=flat&logo=webRTC&logoColor=white"> 
 
+
 * ###### kurento 활용 pub/sub 구조 내 Object Detection 적용
 * ###### 통신 품질 데이터로 clustering 기반의 비즈니스 모델 제시
 * ###### Jest 기반의 테스트 코드를 활용한 서비스 리팩토링 진행
----
+
+<br>
 
 ## 📋 Project
 ### **Ship Identification System(Django)**
