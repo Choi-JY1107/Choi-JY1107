@@ -51,7 +51,7 @@ Choi Jae Young
 </p>
 
 ## 🎈 Career
-### **싱크테크노 풀스택 개발 인턴 (2024.03 ~ )**
+### **싱크테크노 풀스택 개발 인턴 (2024.03 ~ 2024.06)**
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat&logo=Openlayers&logoColor=white"> <img src="https://img.shields.io/badge/webRTC-333333?style=flat&logo=webRTC&logoColor=white"> 
 
 
