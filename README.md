@@ -95,7 +95,7 @@ Choi Jae Young
 | Date    | Contest                            | Prize     |
 |---------|------------------------------------|-----------|
 | 2017.07 | 전국정보올림피아드                  | 장려상     |
-| 2019.05 | NPC(Newbie Programming Contest     | 4등       |
+| 2019.05 | NPC(Newbie Programming Contest)     | 4등       |
 | 2024.08 | UCPC                               | 본선 진출 |
 | 2024.08 | CPC(Chung-Ang Programming Contest) | 3등상     |
 
