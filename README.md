@@ -96,8 +96,6 @@ Choi Jae Young
 ### 📞 Contact
 <p>
   <img src="https://img.shields.io/badge/cjy11230@kakao.com-FFCD00?style=flat&logo=KakaoTalk&logoColor=black">
-  <img src="https://img.shields.io/badge/jyblessingyou@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/antjqwydld@naver.com-03C75A?style=flat&logo=naver&logoColor=white">
   <img src="http://img.shields.io/badge/jy.__.1107-black?style=flat&logo=Instagram&link=https://instagram.com/jy._.1107">   
 </p>
  
