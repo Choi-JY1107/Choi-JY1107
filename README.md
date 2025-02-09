@@ -31,10 +31,10 @@
 **Framework**
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
 </p>
 
@@ -115,8 +115,6 @@
 ##### 캠을 켜고 다른 사람들과 함께 공부하는 시간을 기록할 수 있는 온라인 학습 플랫폼 (2024.08 ~ 2024.12) [github](https://github.com/boostcampwm-2024/web24-GOMZ)
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=black">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white">
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=WebRTC&logoColor=white">
@@ -141,7 +139,6 @@
 ##### (2025 중앙대학교 청룡톤 1등 수상작)
 ##### 개인 맞춤형 장학 정보 조회 및 메일 서비스 (2025.02.08 ~ 2025.02.09) [github](https://github.com/bluedragon-five/bluedragon-five-fe)
 <p>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=black">
  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=black">
