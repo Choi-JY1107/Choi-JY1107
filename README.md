@@ -129,8 +129,8 @@
 
 ## 🏃🏼 해커톤
 ### **Pocket Plant**
-##### (2024 중앙대 UNION 해커톤 1등 수상작)
-##### 식물 사진 도감 및 라벨 에측 기능 서비스 (2024.05.18 ~ 2024.05.19) [github](https://github.com/Choi-JY1107/2024_Uni_DTHON_team13_server)
+##### (2024 중앙대학교 UNION 해커톤 1등 수상작)
+##### 식물 사진 도감 및 라벨 에측 기능 서비스 (2024.05.18 ~ 2024.05.19) [github](https://github.com/Choi-JY1107/PocketPlant-Server)
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
@@ -138,7 +138,7 @@
 </p>
 
 ### **Scholar Link**
-##### (2025 중앙대 청룡톤 해커톤 1등 수상작)
+##### (2025 중앙대학교 청룡톤 1등 수상작)
 ##### 개인 맞춤형 장학 정보 조회 및 메일 서비스 (2025.02.08 ~ 2025.02.09) [github](https://github.com/bluedragon-five/bluedragon-five-fe)
 <p>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
