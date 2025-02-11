@@ -128,7 +128,7 @@
 ## 🏃🏼 해커톤
 ### **Pocket Plant**
 ##### (2024 중앙대학교 UNION 해커톤 1등 수상작)
-##### 식물 사진 도감 및 라벨 에측 기능 서비스 (2024.05.18 ~ 2024.05.19) [github](https://github.com/Choi-JY1107/PocketPlant-Server)
+##### 식물 사진 도감 및 라벨 예측 기능 서비스 (2024.05.18 ~ 2024.05.19) [github](https://github.com/Choi-JY1107/PocketPlant-Server)
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
