@@ -140,7 +140,7 @@
 ##### 개인 맞춤형 장학 정보 조회 및 메일 서비스 (2025.02.08 ~ 2025.02.09) [github](https://github.com/bluedragon-five/bluedragon-five-fe)
 <p>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
- <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=black">
+ <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=ReactRouter&logoColor=black">
  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=black">
  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
 </p>
