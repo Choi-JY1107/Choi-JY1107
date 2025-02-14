@@ -60,7 +60,7 @@
 ### **🎓 Chung-Ang University (2019.03 ~ 2025.02)**
 - 소프트웨어학부 학사
 
-### **🟩 Naver Boostcamp Web Fullstack 🟦 (2024.07 ~ 2024.12)**
+### **🟩 Naver Boostcamp Web Fullstack 9th 🟦 (2024.07 ~ 2024.12)**
 - Challenge 과정 (2024.07 ~ 2024.08)
 - Membership 과정 (2024.08 ~ 2024.12)
 
