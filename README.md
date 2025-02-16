@@ -112,7 +112,7 @@
 
 ### **GOMZ** 
 
-##### 캠을 켜고 다른 사람들과 함께 공부하는 시간을 기록할 수 있는 온라인 학습 플랫폼 (2024.08 ~ 2024.12) [github](https://github.com/boostcampwm-2024/web24-GOMZ)
+##### 캠을 켜고 다른 사람들과 함께 공부하는 시간을 기록할 수 있는 온라인 학습 플랫폼 (2024.10 ~ 2024.12) [github](https://github.com/boostcampwm-2024/web24-GOMZ)
 
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white">
