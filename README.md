@@ -55,7 +55,7 @@
 
 ## 🏫 Education
 ### **🎓 Chung-Ang University Bachelor's degree(2019.03 ~ 2025.02)**
-- 소프트웨어학부 학사
+- Major : Software
 
 <br>
 
