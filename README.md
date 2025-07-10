@@ -5,12 +5,9 @@
 
 **판단의 근거**와 **인과 관계**를 매우 중요하게 생각합니다.
 
- 
 **좋은 소통**을 하는 법에 대해 고민하고 있습니다.
 
 </br>
-
-현재는 특정 도메인에 머무르지 않고 **다양한 경험**을 쌓는 데 집중하고 있습니다.
 
 </div>
 <br>
@@ -64,9 +61,8 @@
 
 ## 🧑‍🧑‍🧒‍🧒 Activity
 
-### **🟦 Mash-Up Node.js팀 🟥 (2025.03 ~ 2026.07)**
+### **🟦 Mash-Up Node.js팀 🟥 (2025.03 ~ )**
 - 15기 Node.js팀 (2025.03 ~ 2025.07)
-- 16기 Node.js팀 (2026.03 ~ 2026.07)
 
 ### **🟩 Naver Boostcamp Web Fullstack 9th 🟦 (2024.07 ~ 2024.12)**
 - Challenge 과정 (2024.07 ~ 2024.08)
@@ -79,9 +75,13 @@
 ### **LG CNS Software Engineer (2025.01 ~ )**
 <p>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
+ <img src="https://img.shields.io/badge/fastAPI-009688?style=flat&logo=fastAPI&logoColor=white">
  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=LangChain&logoColor=white">
  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=LangGraph&logoColor=white">
 </p>
+
+* ###### 사내 모바일 어플리케이션 내 AI Agent 적용 (2025.01 ~ ) 
+
 
 ### **싱크테크노 풀스택 개발 인턴 (2024.03 ~ 2024.06)**
 <p>
@@ -100,13 +100,22 @@
 
 
 ## 📋 Project
-### **Ship Identification System**
-##### 선박 데이터 관련 CRUD 서비스 및 AI 검색 기능 서비스 (2021.07 ~ 2022.01) [github](https://github.com/Choi-JY1107/shipCheck_server)
+### **OOOOTD**
+##### 자신의 OOTD를 LLM이 유쾌하게 평가하고 Roast 하는 서비스 (2025.04 ~ ) [github](https://github.com/mash-up-kr/GGLK-Server)
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
-  <img src="https://img.shields.io/badge/Cubrid-FF6F00?style=flat&logo=Cubrid&logoColor=white">
+ <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white">
+ <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=LangChain&logoColor=white">
+ <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=LangGraph&logoColor=white">
 </p>
+
+### **GOMZ** 
+##### 캠을 켜고 다른 사람들과 함께 공부하는 시간을 기록할 수 있는 온라인 학습 플랫폼 (2024.10 ~ 2024.12) [github](https://github.com/boostcampwm-2024/web24-GOMZ)
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=WebRTC&logoColor=white">
+</p>
+
 
 ### **Catch Pet!**
 ##### 반려 동물 관련 커뮤니티 서비스 및 AI 검색 기능 서비스 (2023.09 ~ 2023.12) [github](https://github.com/Choi-JY1107/2023-2-Capstone-Server)
@@ -118,17 +127,13 @@
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white">
 </p>
 
-### **GOMZ** 
-
-##### 캠을 켜고 다른 사람들과 함께 공부하는 시간을 기록할 수 있는 온라인 학습 플랫폼 (2024.10 ~ 2024.12) [github](https://github.com/boostcampwm-2024/web24-GOMZ)
-
+### **Ship Identification System**
+##### 선박 데이터 관련 CRUD 서비스 및 AI 검색 기능 서비스 (2021.07 ~ 2022.01) [github](https://github.com/Choi-JY1107/shipCheck_server)
 <p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white">
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=WebRTC&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
+  <img src="https://img.shields.io/badge/Cubrid-FF6F00?style=flat&logo=Cubrid&logoColor=white">
 </p>
-
-
 
 <br>
 
