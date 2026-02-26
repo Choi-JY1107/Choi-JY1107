@@ -63,6 +63,7 @@
 
 ### **🟦 Mash-Up Node.js팀 🟥 (2025.03 ~ )**
 - 15기 Node.js팀 (2025.03 ~ 2025.07)
+- 16기 Node.js팀장 (2026.03 ~ )
 
 ### **🟩 Naver Boostcamp Web Fullstack 9th 🟦 (2024.07 ~ 2024.12)**
 - Challenge 과정 (2024.07 ~ 2024.08)
