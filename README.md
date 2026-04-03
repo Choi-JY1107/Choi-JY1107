@@ -1,6 +1,6 @@
 <div align="center">
 <h1>🌟 Choi Jae Young 🌟</h1>
-<h3>Fullstack Developer</h3>
+<h3>Software Engineer</h3>
 <br>
 
 **판단의 근거**와 **인과 관계**를 매우 중요하게 생각합니다.
