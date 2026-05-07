@@ -169,7 +169,7 @@
 |---------|------------------------------------|-----------|
 | 2017.07 | 전국정보올림피아드                  | 장려상     |
 | 2019.05 | NPC(Newbie Programming Contest)     | 4등       |
-| 2024.08 | UCPC                               | 본선 진출 |
+| 2024.08 | UCPC                               | 41등(중앙대 소프트 졸업억제기) |
 | 2024.08 | CPC(Chung-Ang Programming Contest) | 3등상     |
 
   [![Codeforces](https://img.shields.io/badge/Codeforces-jy._.1107-blue?logo=codeforces)](https://codeforces.com/profile/jy._.1107)
